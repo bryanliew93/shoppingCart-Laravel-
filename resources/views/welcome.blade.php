@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel <img src="{{ asset('logo/logo.png') }}" alt="">
+                  Laravel <img src="{{ asset('logo/logo.png') }}" alt="">
                 </div>
 
                 <div class="links">
